@@ -1,0 +1,8 @@
+=== TODO LIST APLIKASI KASIR v1 ===
+- Manajemen Barang Dagangan
+- Manajemen Stok
+- Manajemen User
+- Transaksi Penjualan
+- Laporan Penjualan
+- Laporan Stok 
+- Laporan Laba Rugi
